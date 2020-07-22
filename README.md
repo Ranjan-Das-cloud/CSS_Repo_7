@@ -7,3 +7,5 @@ Whenever anyone will go with this particular project by opening it on a browser,
 This particulalar project describes how to implement basic as well as advanced CSS Animation properties in various context as an element for beautifying in case of any kind of webpage building.
 
 /........./
+
+All the respective screenshots are attached within the images folder as well as created/shown here as browser view, which will be effective for one's virtual visual simulation and verification.
