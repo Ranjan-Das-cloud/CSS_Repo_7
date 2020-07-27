@@ -13,6 +13,8 @@ This particulalar project describes how to implement basic as well as advanced C
 
 ![Screenshot_2)](https://user-images.githubusercontent.com/65014749/88549550-0f367b80-d03e-11ea-9a22-758f97e148d5.png)
 
+![Screenshot_3](https://user-images.githubusercontent.com/65014749/88549653-32612b00-d03e-11ea-9836-dd0fb66d176b.png)
+
 All the respective screenshots are attached within the images folder as well as created/shown here as browser view, which will be effective for one's virtual visual simulation and verification.
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - */
